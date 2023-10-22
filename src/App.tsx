@@ -9,12 +9,12 @@ interface CardState {
 const lines: string[] = [
     'Zere benen',
     'Nee nee nee',
-    'Buurtzorg',
+    'Buurt zorg',
     'Hoef niet meer',
     'Zie niemand',
     'Kom nergens',
     'Rinus',
-    'Zonnebloem',
+    'Zonne bloem',
     'Hulp',
     'Was',
     'Plek hoofd',
@@ -23,15 +23,15 @@ const lines: string[] = [
     'Planten',
     'Kerst',
     'Wanneer vrij',
-    'Vogelvoer',
+    'Vogel voer',
     'Buren',
-    'Klaverjassen',
+    'Klaver jassen',
     'Van der Wal',
     'Bets',
     'Jenever',
-    'Opladen scootmobiel',
+    'Opladen scoot mobiel',
     'Corona',
-    'Boodschappen'
+    'Bood schappen'
 ];
 
 function App() {
